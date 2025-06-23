@@ -1,5 +1,12 @@
 ### 🟥 Cube
 
+3D Unity game featuring a **manipulable cube** in a simple scene.
+
+tři levely, credits, menu
+solid černé a pohyblivé zelené objekty
+
+**Controls:**
+
 
 
 A simple **console application for tracking personal gym records** in three disciplines: bench press, deadlift and squat.
