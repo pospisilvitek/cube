@@ -1,32 +1,25 @@
 ### 🟥 Cube
 
-3D Unity game featuring a **manipulable cube** in a simple scene, where the **goal is to reach the end** of the platform.
-
----
-
-Hra se je složena skládá z jednoduchého úvodního menu.
-
-
-
-tři levely, credits, menu
-solid černé a pohyblivé zelené objekty
-
-**Controls:**
-
-
-
-A simple **console application for tracking personal gym records** in three disciplines: bench press, deadlift and squat.
+A 3D Unity game featuring a **controllable cube** in simple platforming scenes, where the **objective is to reach the end of each platform**.
 
 ---
 
 ### Description
 
-The program offers user **three main functions:**
+The game consists of five scenes:
 
-- Add records  
-- Display records (sorted in descending order by weight)  
-- Delete records  
+- A simple main menu  
+- Level 1 (easy difficulty)  
+- Level 2 (medium difficulty)  
+- Level 3 (hard difficulty)  
+- Final credits  
 
-Each record is saved in a text file based on the discipline. The application also allows you to create a text file in a predefined `data` folder.
+The player cube is continuously pushed forward by a preset force that cannot be altered during gameplay.
 
-**Controls:** All actions are **handled via a console menu**, using specified keys, the Enter key, or on-screen prompts.
+There are two types of obstacles:
+
+- **Black solid obstacles** – the player must avoid them. Touching one sends the player back to the beginning of the level.
+- **Green moving obstacles** – the player can touch them, but they make it harder to control the cube.
+
+**Controls:** Press A to move left, D to move right.
+
