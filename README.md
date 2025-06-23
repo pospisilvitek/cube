@@ -1,6 +1,12 @@
 ### 🟥 Cube
 
-3D Unity game featuring a **manipulable cube** in a simple scene.
+3D Unity game featuring a **manipulable cube** in a simple scene, where the **goal is to reach the end** of the platform.
+
+---
+
+Hra se je složena skládá z jednoduchého úvodního menu.
+
+
 
 tři levely, credits, menu
 solid černé a pohyblivé zelené objekty
